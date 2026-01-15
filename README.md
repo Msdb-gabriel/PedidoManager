@@ -47,4 +47,4 @@ O sistema simula a criação de pedidos, permitindo cadastrar um cliente, adicio
 
 ## 🎯 Objetivo do projeto
 
-Projeto criado com fins educacionais e de portfólio, visando consolidar os fundamentos de Java e POO para oportunidades de estágio e desenvolvimento backend.
+Desenvolver e consolidar fundamentos de Java e Programação Orientada a Objetos por meio da implementação de regras de negócio, simulando um fluxo real de pedidos utilizado em aplicações backend.
