@@ -1,12 +1,11 @@
-# PedidoManager
+  PedidoManager
 
 Projeto backend desenvolvido em Java com foco em Programação Orientada a Objetos (POO).
 
 O sistema simula a criação de pedidos, permitindo cadastrar um cliente, adicionar produtos e calcular o valor total do pedido, utilizando conceitos fundamentais de backend e lógica de negócio.
 
----
 
-## 🛠️ Funcionalidades
+   Funcionalidades
 
 - Cadastro de cliente
 - Adição de produtos ao pedido
@@ -14,19 +13,17 @@ O sistema simula a criação de pedidos, permitindo cadastrar um cliente, adicio
 - Cálculo do valor total
 - Entrada de dados via console
 
----
 
-## 💻 Tecnologias utilizadas
+   Tecnologias utilizadas
 
 - Java
 - Programação Orientada a Objetos (POO)
 - Collections (List, ArrayList)
 - Scanner (entrada de dados)
 - Git e GitHub
+ 
 
----
-
-## 📚 Conceitos aplicados
+   Conceitos aplicados
 
 - Encapsulamento
 - Construtores
@@ -34,17 +31,16 @@ O sistema simula a criação de pedidos, permitindo cadastrar um cliente, adicio
 - Responsabilidade de classes
 - Separação de entidades (Cliente, Produto, Pedido)
 
----
 
-## ▶️ Como executar
+
+   Como executar
 
 1. Clone o repositório
 2. Abra o projeto em uma IDE Java (IntelliJ, Eclipse, etc.)
 3. Execute a classe `Main`
 4. Siga as instruções exibidas no console
 
----
 
-## 🎯 Objetivo do projeto
+  Objetivo do projeto
 
 Desenvolver e consolidar fundamentos de Java e Programação Orientada a Objetos por meio da implementação de regras de negócio, simulando um fluxo real de pedidos utilizado em aplicações backend.
